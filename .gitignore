@@ -25,3 +25,7 @@
 .vs/
 .idea/
 .DS_Store
+
+Assets/Videos/
+Assets/Videos/*
+Assets/Video*
